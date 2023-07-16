@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lutaaya Jamil</h1>
 <h3 align="center">A passionate FullStack developer from Uganda.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamil-stark" alt="jamil-stark" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jamil-stark-ma&margin-w=15" alt="jamil-stark" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/kifule" target="blank"><img src="https://img.shields.io/twitter/follow/kifule?logo=twitter&style=for-the-badge" alt="kifule" /></a> </p>
 
