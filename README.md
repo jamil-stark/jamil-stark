@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lutaaya Jamil</h1>
-<h3 align="center">A passionate FullStack developer from Uganda.</h3>
+<h3 align="center">A passionate Backend developer from Uganda.</h3>
 
 <p align="left"> <a href="https://github.com/jamil-stark"><img src="https://github-profile-trophy.vercel.app/?username=jamil-stark" alt="jamil-stark" /></a> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [an online movie ticket booking system](https://github.com/jamil-stark/KifuleMovieBookingDjango)
 
-- 🌱 I’m currently learning **B.sci Information Systems,springboot, META-Backend Professional, OCI**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on [PROSEIT](https://github.com/Proseit/proseit-backend)
 
