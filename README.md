@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on [DATA based solutions]
+- 👯 I’m looking to collaborate on **DATA based solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamil-stark/](https://github.com/jamil-stark/)
 
