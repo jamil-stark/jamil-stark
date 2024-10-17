@@ -6,21 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/kifule" target="blank"><img src="https://img.shields.io/twitter/follow/kifule?logo=twitter&style=for-the-badge" alt="kifule" /></a> </p>
 
-- 🔭 I’m currently working on [an online movie ticket booking system](https://github.com/jamil-stark/KifuleMovieBookingDjango)
-
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on [PROSEIT](https://github.com/Proseit/proseit-backend)
-
-- 🤝 I’m looking for help with [learning springboot](https://github.com/jamil-stark/proseit)
+- 👯 I’m looking to collaborate on [DATA based solutions]
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamil-stark/](https://github.com/jamil-stark/)
 
-- 💬 Ask me about **Django, PHP, Python,and systems design.**
+- 💬 Ask me about **Oracle, PL/SQL, Django, Nest, Python, and systems design.**
 
 - 📫 How to reach me **jamillutaaya0@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JPEySlGdKjn3kwVuY1mp4-nh2ft9TFpA/view?usp=sharing](https://drive.google.com/file/d/1JPEySlGdKjn3kwVuY1mp4-nh2ft9TFpA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
